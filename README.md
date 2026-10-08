@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Cesar! 👋
+# Hi, I'm Cesar!
 
 ### Data Science Student @ UNC-Chapel Hill
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌿 About Me
+## About Me
 
 I'm a Data Science student at the **University of North Carolina at Chapel Hill** with a passion for turning data into meaningful insights and real-world solutions.
 
@@ -27,7 +27,7 @@ Through my experience in AI training and evaluation, along with independent proj
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-294838?style=for-the-badge&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-343D39?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -38,7 +38,7 @@ Through my experience in AI training and evaluation, along with independent proj
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
 ### ⚾ Dodgers Analytics Dashboard
 
@@ -54,7 +54,7 @@ An interactive MLB analytics dashboard built using **Python, Streamlit, and live
 
 ---
 
-## 🎧 Beyond the Code
+## Beyond the Code
 
 When I'm not working with data, I enjoy exploring creative interests and finding new ways to express myself.
 
