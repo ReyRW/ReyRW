@@ -4,7 +4,6 @@
 
 ### Data Science Student @ UNC-Chapel Hill
 
-![Theme](https://img.shields.io/badge/Theme-Sage_Green-8AB49C?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Data_Science-343D39?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-294838?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-rey-garcia/)
