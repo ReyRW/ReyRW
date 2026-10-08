@@ -26,14 +26,26 @@ Through my experience in AI training and evaluation, along with independent proj
 
 ---
 
-## Tech Stack
+<h2>Tech Stack</h2>
 
-![Python](https://img.shields.io/badge/Python-294838?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-343D39?style=for-the-badge&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-294838?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-343D39?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-294838?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-343D39?style=for-the-badge&logo=scikitlearn&logoColor=white)
+<picture>
+  <img alt="Python" src="https://img.shields.io/badge/Python-294838?style=for-the-badge&logo=python&logoColor=white">
+</picture>
+<picture>
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-343D39?style=for-the-badge&logo=streamlit&logoColor=white">
+</picture>
+<picture>
+  <img alt="Git" src="https://img.shields.io/badge/Git-294838?style=for-the-badge&logo=git&logoColor=white">
+</picture>
+<picture>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-343D39?style=for-the-badge&logo=github&logoColor=white">
+</picture>
+<picture>
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-294838?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+</picture>
+<picture>
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-343D39?style=for-the-badge&logo=scikitlearn&logoColor=white">
+</picture>
 
 ---
 
