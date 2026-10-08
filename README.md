@@ -8,7 +8,7 @@
 ![Focus](https://img.shields.io/badge/Focus-Data_Science-343D39?style=flat-square)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-294838?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-rey-garcia/)
-[![Resume](https://img.shields.io/badge/Resume-View_PDF-343D39?style=for-the-badge&logo=readthedocs&logoColor=white)](YOUR_RESUME_URL)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-343D39?style=for-the-badge&logo=readthedocs&logoColor=white)](./Cesar_Garcia_Resume_(2).pdf)
 
 </div>
 
@@ -50,7 +50,7 @@ An interactive MLB analytics dashboard built using **Python, Streamlit, and live
 - Deployed using Streamlit Community Cloud
 - Planned expansion to all 30 MLB teams for the 2027 season
 
-🔗 [View Repository](YOUR_PROJECT_REPOSITORY_URL) | [Live Dashboard](YOUR_STREAMLIT_URL)
+🔗 [View Repository](https://github.com/ReyRW/dodgers-analytics-dashboard-project) | [Live Dashboard](https://dodgers-analytics-dashboard-project.streamlit.app/)
 
 ---
 
